@@ -12,5 +12,7 @@ Tumblrtv::Application.routes.draw do
 
   match '/login' => 'sessions#new', :as => :login
   match '/logout' => 'sessions#destroy', :as => :logout
+  
+  match '/all_beers_55' => 'beers#all_beers_55'
 
 end
