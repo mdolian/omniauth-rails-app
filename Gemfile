@@ -1,8 +1,7 @@
 source 'http://rubygems.org'
 
 gem 'rails', '~> 3.2'
-gem 'sqlite3', :group => 'development'
-gem 'pg', :group => 'production'
+gem 'mysql2', :group => 'production'
 
 group :assets do
   gem 'sass-rails', '~> 3.2'
