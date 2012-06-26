@@ -5,8 +5,8 @@ tumblr:
   key: "5UvsOKeh6glWaMikIjKpWGCgEbIlpivNTZiIcFO8SJ35rLMtgP"
   secret: "VE1yzYX5a9fkmkESvSjyS0jigQPvNfD1D2dUd7gUZdJzzstOj0"
 google: # also used by the YouTube provider
-  key: "ec2-174-129-19-177.compute-1.amazonaws.com"
-  secret: "LhwWq61OSHPV1_Ak-fEF4e3b"
+  key: "519330293714.apps.googleusercontent.com"
+  secret: "sFJYkmnnMo-hK9FvpLvoLgI0"
 twitter:
   key: "KgjC3GYmSLGSm4d9DzQ"
   secret: "616Bg7OVLtrfVydKI1j8Twkm1bwEA6trlZa99hM7xg"
